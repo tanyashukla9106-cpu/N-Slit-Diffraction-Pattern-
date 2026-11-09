@@ -1,0 +1,5 @@
+Last simulation parameters
+Number of slits : 3
+Wavelength      : 3 nm
+Slit width      : 50 um
+Slit separation : 100 um
